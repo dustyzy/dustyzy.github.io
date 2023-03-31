@@ -18,4 +18,17 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>test</title>
+    <url>/2023/03/31/test/</url>
+    <content><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><h3 id="3"><a href="#3" class="headerlink" title="3"></a>3</h3><ul>
+<li>l1</li>
+<li>l2<br>  a h1<br>  b 2</li>
+<li>l3</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
 </search>
